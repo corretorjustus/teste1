@@ -2,7 +2,7 @@ body {
     background: url(sp.jpg) center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: auto;
+    background-position: center;
     background-size: cover;
 }
 

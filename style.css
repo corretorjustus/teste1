@@ -4,7 +4,6 @@ body {
     background-attachment: fixed;
     background-position: auto;
     background-size: cover;
-    text-align: ;
 }
 
 
@@ -142,7 +141,7 @@ h4 {
     padding: 50px 15%;
     background: #333;
     color: #efefef;
-    display: flex;
+    display: grid;
 }
 
 .footer div {

@@ -135,18 +135,7 @@ h4 {
 }
 
 
-.footer {
-    margin-top: 200px;
-    width: 100% 10%;
-    padding: 50px 15%;
-    background: #333;
-    color: #efefef;
-    display: grid;
-}
 
-.footer div {
-    text-align: center;
-}
 
 .col-2 {
     flex-grow: 2;

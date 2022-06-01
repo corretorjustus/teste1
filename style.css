@@ -2,7 +2,7 @@ body {
     background: url(sp.jpg) center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position:center center;
+    background-position: center;
     background-size: cover;
 }
 
@@ -95,7 +95,7 @@ h2 {
 
 .container {
     margin: auto;
-    max-width: 1300px;
+    max-width: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 20px;
@@ -161,4 +161,15 @@ h4 {
     text-decoration: none;
     color: #efefef;
     margin-bottom: 10px;
+}
+
+
+.float {
+    right: 25px;
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    text-align: center;
+    z-index: 100;
 }

@@ -82,6 +82,7 @@ h2 {
     color: white;
     text-align: center;
     background-color: grey;
+    background-position: auto;
     border-radius: 12px;
     font-size: 300%;
 }
